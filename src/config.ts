@@ -1,2 +1,2 @@
-export const SITE_TITLE = 'Astropod | Host your podcast for free';
-export const SITE_DESCRIPTION = 'Astropod is a free and open-source template for host podcast using GitHub and GitHub-Pages.';
+export const SITE_TITLE = 'NAME YOUR PODCAST SITE | USE THIS COMMIT AS A GUIDE';
+export const SITE_DESCRIPTION = 'THIS IS ANOTHER PLACE YOU MUST CHANGE TO CUSTOMIZE THIS THEME';
